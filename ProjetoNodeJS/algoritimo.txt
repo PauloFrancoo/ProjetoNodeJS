@@ -1,0 +1,19 @@
+PROJETO SEGURANÇA VIRTUAL
+
+Você precisa pegar o nome da pessoa que está tentando entrar naquele lugar.
+
+Você precisa perguntar a ele(a)quem  o convidou para essa festa.
+
+Você precisa de um botão na tela , que quando você clicar ,
+  irá acessar o seu codigo javascript para verificar se apessoa que está tentando entrar ,
+  foi de fato convidado por quem ela diz , que a convidou.
+(ex)
+nome da pessoa Paulo, quem convidou para festa?
+Lucia.
+
+Clico no botão, o javascript pega as informações que eu preenchi na tela
+  e verifica no meu código javascript se aquela pessoa está dentro da lista de convidados da Lucia.
+
+Caso o  nome esteja na lista ,eu   vou alterar  a descrição de "Pesquisando" para "Pode entrar".
+
+Caso  o nome não esteja na lista,eu vou alterar a descrição de "Pesquisando" para "Você não pode entrar".

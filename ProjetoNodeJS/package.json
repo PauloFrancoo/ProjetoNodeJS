@@ -1,0 +1,22 @@
+{
+  "name": "projetonodejs",
+  "version": "1.0.0",
+  "description": "primeiro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloFrancoo/ProjetoNodeJS.git"
+  },
+  "keywords": [
+    "projetoNodeJS"
+  ],
+  "author": "PauloFranco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloFrancoo/ProjetoNodeJS/issues"
+  },
+  "homepage": "https://github.com/PauloFrancoo/ProjetoNodeJS#readme"
+}
